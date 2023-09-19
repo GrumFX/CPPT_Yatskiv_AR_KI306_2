@@ -1,0 +1,20 @@
+Name: Oleg
+Age: 30
+Gender: Male
+Occupation: Software Developer
+
+Name: Alice
+Age: 25
+Gender: Female
+Occupation: Unemployed
+
+Name: David
+Age: 45
+Gender: Male
+Occupation: Politician
+
+Name: Petro
+Age: 17
+Gender: Male
+Occupation: Student
+
