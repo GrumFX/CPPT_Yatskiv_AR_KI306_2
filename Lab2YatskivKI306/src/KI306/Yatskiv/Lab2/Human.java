@@ -122,6 +122,7 @@ public class Human {
         System.out.println("Age: " + age);
         System.out.println("Gender: " + gender);
         System.out.println("Occupation: " + occupation);
+        System.out.println("Person is adult: " + isAdult());
     }
 
     /**
@@ -131,11 +132,6 @@ public class Human {
      */
     public boolean isAdult() {
         boolean isAdult = age > 18;
-        if (isAdult) {
-            System.out.println("Person is adult");
-        } else {
-            System.out.println("Person is underage");
-        }
         return isAdult;
     }
 
@@ -146,7 +142,8 @@ public class Human {
         String logEntry = "Name: " + name + "\n" +
                 "Age: " + age + "\n" +
                 "Gender: " + gender + "\n" +
-                "Occupation: " + occupation + "\n";
+                "Occupation: " + occupation + "\n" +
+                "Person is adult: " + isAdult() + "\n";
 
         logData.add(logEntry);
     }
