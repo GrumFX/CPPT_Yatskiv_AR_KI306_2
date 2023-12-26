@@ -1,0 +1,29 @@
+
+Name: John
+Age: 37
+Gender: Male
+Occupation: Athlete
+Sport: Swimming
+Gold Medals: 7
+Silver Medals: 8
+Bronze Medals: 4
+Experience: 20 years
+Skill Level: 4.5
+John is training for 6 hours.
+John is competing in Swimming
+Congratulations! John has won a SILVER medal!
+Silver medals: 8
+
+Name: Mary
+Age: 32
+Gender: Female
+Occupation: Athlete
+Sport: Running
+Gold Medals: 3
+Silver Medals: 4
+Bronze Medals: 6
+Experience: 13 years
+Skill Level: 3.1
+Mary is training for 4 hours.
+Mary is competing in Running
+Unfortunately, Mary did not win a medal.

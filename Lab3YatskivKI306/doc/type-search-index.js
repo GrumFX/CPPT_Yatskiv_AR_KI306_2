@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"KI306.Yatskiv.Lab3","l":"Human"},{"p":"KI306.Yatskiv.Lab3","l":"Logger"},{"p":"KI306.Yatskiv.Lab3","l":"Sportsman"},{"p":"KI306.Yatskiv.Lab3","l":"SportsmanApp"}];updateSearchResults();
